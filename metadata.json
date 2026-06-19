@@ -1,0 +1,6 @@
+{
+  "name": "DiaCare TH",
+  "description": "แอพติดตามระดับน้ำตาลและผู้ช่วยดูแลเบาหวานส่วนตัว (Blood Glucose Tracker & Diabetes Care Assistant)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
